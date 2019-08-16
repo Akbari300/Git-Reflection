@@ -18,7 +18,7 @@ i think because that's a good feature of Git due to in porgramming files which a
 Using git log we are able to see all history of of commit with throughout the project and using git diff we can compare two commits and analysis that wich line has been added and removed.
 
 5. how might using version control make you more confident to make changes that could break something?
-Using version control keep developer confident to make any extra changes and experiement and at any point using checlskout commit bring back to old state.
+Using version control keep developer confident to make any extra changes and experiement and at any point using checlskout commit bring back to
 
 
 

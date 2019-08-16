@@ -1,0 +1,7 @@
+What happens when you initialize a repository? why do you need to do it?
+when we initialize a repository git create a file .git which keep track of history of that repository any changes. it's important because through that we create different version of file which we can go back and forward.
+
+how is staging area different from the working directory and the repository? what value do you think it offers?
+staging area provide the envirnment which help to check and keep track of file before commit what changes have been made and is it gives the meaning to commit.
+
+
