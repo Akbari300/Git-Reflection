@@ -5,3 +5,7 @@ how is staging area different from the working directory and the repository? wha
 staging area provide the envirnment which help to check and keep track of file before commit what changes have been made and is it gives the meaning to commit.
 
 
+how can you use the staging area to make sure you have one commit per logical change?
+using command git diff we can compare two version of file between working directory and staging area and after adding to staging area still before commiting can compare two versions between staging area and depository by git diff --staged to make sure we commit per logical changes.
+
+
