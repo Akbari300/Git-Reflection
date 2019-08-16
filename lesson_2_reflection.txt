@@ -13,4 +13,5 @@ what are some situation when branches would be helpful in keeping your history o
 branches are helpful when we want to make an experiment and not want to apply on working project. or make another version of project to be able to work on something.
 it keep the repository organized by creating a new branch without on previous one.
 
-
+How do the diagram help you visualize the branch structure?
+the diagrams are helpful to visualize the branch structure in your mind by commiting would know where it goes and what will be effected.
