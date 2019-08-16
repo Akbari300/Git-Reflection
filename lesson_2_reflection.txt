@@ -9,3 +9,8 @@ how can you use the staging area to make sure you have one commit per logical ch
 using command git diff we can compare two version of file between working directory and staging area and after adding to staging area still before commiting can compare two versions between staging area and depository by git diff --staged to make sure we commit per logical changes.
 
 
+what are some situation when branches would be helpful in keeping your history organized? how would branches help?
+branches are helpful when we want to make an experiment and not want to apply on working project. or make another version of project to be able to work on something.
+it keep the repository organized by creating a new branch without on previous one.
+
+
