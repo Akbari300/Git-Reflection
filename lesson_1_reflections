@@ -1,0 +1,24 @@
+1. how did you viewing between two versions of a file help you see the bug that was introduced?
+we are looking for the differences which start with + for new file and - for old file and then compare and find the bug
+
+
+2. how could having easy access to the entire history of a file make you a more efficent programming in the long term?
+having access to the file history for sure, could help to undo the old version incase of some mistakes and performances
+
+
+
+3. what do you think are the pros and cons of manually choosing when to create commit, like you do in git vs having versions authomatically saved like google doc user?
+The advantages of having manually commit so the user have full control on commits, to commit per logical changes, not having overloaded commits in log.
+but disadvantages would be sometime forget to commit and sometime commit after a long changes. later make it difficult to track.
+
+3. why do you think some version control system like Git, allowing saving multiple file in one commit, while others like google docs treat each file saperately?
+i think because that's a good feature of Git due to in porgramming files which are connectd to and make a system better to treat them in one commit which make it easy for debuging.q
+
+4. how can you use the commands git log and git diff to view the history of a file?
+Using git log we are able to see all history of of commit with throughout the project and using git diff we can compare two commits and analysis that wich line has been added and removed.
+
+5. how might using version control make you more confident to make changes that could break something?
+Using version control keep developer confident to make any extra changes and experiement and at any point using checlskout commit bring back to old state.
+
+
+
