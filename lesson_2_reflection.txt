@@ -18,3 +18,7 @@ the diagrams are helpful to visualize the branch structure in your mind by commi
 
 what is the result of merging two branches together? why do we respresent in diagram the way we do?
 merging two branches together result one branch into another which copy all functionalities and build a new branch. represent branches in diagram help to visualize and have an image from them.
+
+
+what are the pros and cons of Git's automatic merging vs alwys doing merge manually?
+if there is no conflict, it's the better way to merge automaically which git does. but fi there is an conflict and same code has been changed so it's neccessary to check the code and resove the conflict before merging.
