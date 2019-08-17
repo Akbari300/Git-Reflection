@@ -15,3 +15,6 @@ it keep the repository organized by creating a new branch without on previous on
 
 How do the diagram help you visualize the branch structure?
 the diagrams are helpful to visualize the branch structure in your mind by commiting would know where it goes and what will be effected.
+
+what is the result of merging two branches together? why do we respresent in diagram the way we do?
+merging two branches together result one branch into another which copy all functionalities and build a new branch. represent branches in diagram help to visualize and have an image from them.
