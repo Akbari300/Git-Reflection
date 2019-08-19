@@ -14,3 +14,9 @@ branches are different mostly use for to set an make some changes which doesnt e
 what is the benefits of having copy of the last known state of the remote stored locally?
 somethime we don't have internet access for while and doesn't want to pull directly to our local master branch in this case, we can compare and checkout on that branch and see the differenc. or in some case if ther is a conflict before directly pulling we want to see git status and git diff and merge later.
 
+
+how would you collaborate without using Git and Github? what would be easier nd what would be harder?
+git which name as version control make is very easy to stor many versions of our project in different state. so can go back and forwards to see them. and github is the ultimate tool for collaboration to share the proejct with more people and work at the same time.
+
+
+
