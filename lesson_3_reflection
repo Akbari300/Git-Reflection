@@ -19,4 +19,7 @@ how would you collaborate without using Git and Github? what would be easier nd 
 git which name as version control make is very easy to stor many versions of our project in different state. so can go back and forwards to see them. and github is the ultimate tool for collaboration to share the proejct with more people and work at the same time.
 
 
+when would you want to make changes in seperate branch rather than directly in master? what benefits does each other have?
+when we work in collaboration in github with someone and trying to make changes in but before update the main branch want our partner see and confirm the changes. the possible way to to do is make a saperate branch push the branch into github and then make a pull request so they can see it.
+
 
